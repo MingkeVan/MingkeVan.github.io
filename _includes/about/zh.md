@@ -1,31 +1,38 @@
-> 写写代码，做做设计，  
-> 离开世界之前，一切都是过程。
+### 个人信息
+- _范明柯（男/1993）_
+- _复旦大学软件工程专业 硕士研究生_
 
-Hey，我是黄玄，病毒种，进化程度不明，多出没于[博客](https://huangxuan.me)、[微博](weibo.com/huxpro)、[知乎](https://www.zhihu.com/people/huxpro/pins/posts)、[Twitter](https://twitter.com/Huxpro/)、[Github](http://github.com/huxpro)、[Medium](https://medium.com/@Huxpro) 等地带，绝招尚在开发中。
+### 联系方式
+- Email：_16212010034@fudan.edu.cn_
+- 微信：_fmk_877148452_
+- Tel：_(+86) 131-6622-5603_
 
-职业是软件工程师，[Web 工会](https://medium.com/ben-and-dion/team-web-3315aa447fb2#.359a9c6cl)活跃成员。曾被招募为淘宝网 · [阿里旅行](http://alitrip.com)前端工程师、微影时代 · [微票儿](http://www.wepiao.com/?r=movie)前端基础工程团队负责人、[饿了么](https://ele.me/) · 大前端团队 · [PWA 顾问](https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509)。
+### 教育背景
+- __复旦大学__ `2016.9 - 今` 软件工程专业
+- __华东师范大学__ `2012.9 - 2016.7` 微电子专业
 
-一些作品和开源软件项目，👉 戳 [Portfolio](/portfolio)、[Github](http://github.com/huxpro)、[演说.io](http://https://zhuanlan.zhihu.com/p/21280918)。 
+### 项目经历
+#### __复旦大学, 物流营运沙盘__  `2017.03 - 2018.03`
+_主力开发_</br>
+__简介__：数字教育系列之物流营运沙盘。由WPF和c#语言开发的Windows桌面应用程序。主要服务于中高职学校物流专业的学生。</br>
+__本人工作__：开发客户端与服务端。其中包括且不限于：</br>
+1、客户端基于状态机和栈实现对话框中状态的切换；</br>
+2、服务端基于Redis将客户端的请求进行缓存和处理；</br>
+3、服务端使用事务进行数据的增加和修改；</br>
+__项目情况__：已经交付给若干职业院校使用。
 
+#### __复旦大学, 实验室管理系统__  `2017.11 - 2017.12`
+_功能完善与bug修复_</br>
+__简介__：实验室日报管理系统。使用用户包括管理员、教师、项目负责人、普通学生等。</br>
+__本人工作__：在已有功能的基础上，</br>
+1、基于SqlServer 存储过程增加投票评奖功能；</br>
+2、基于SmtpClient增加定时发送统计信息邮件功能；</br>
+__项目情况__：作为复旦大学电子商务研究中心教学管理平台使用，且交付给上海财经大学某实验中心。
 
-##### Talks
+### 专业技能
+- __C#__(掌握), __Sql__(掌握),__Redis__(了解), __Java__(了解), __Python__(了解)
+- Coursera的Python证书[Programming for Everybody (Getting Started with Python)](https://www.coursera.org/account/accomplishments/verify/7UB69QTAPM3Z "Programming for Everybody (Getting Started with Python)")
 
-- [Upgrading to Progressive Web Apps][9] · [JSConf CN 上海 2017](http://2017.jsconf.cn/)
-- Building Progressive Web Apps · [CSDI 广州 2017](http://www.csdisummit.com/)
-- The State of Progressive Web App · GDG IO Redux 北京 2017
-- 炒冷饭 · PWA 到底是个什么玩意？· Baidu HQ 北京 2017
-- [Service Worker 101][5] · GDG DevFest 北京 2016
-- [Progressive Web App，复兴序章][4] · [QCon 上海 2016](http://2016.qconshanghai.com/presentation/3111)
-- Progressive Web App 之我见 · GDG IO Redux 北京 2016
-- [CSS Still Sucks 2015][2] · 2015
-- [JavaScript 模块化七日谈][1] · 2015
-
-[1]: //huangxuan.me/2015/07/09/js-module-7day/
-[2]: //huangxuan.me/2015/12/28/css-sucks-2015/
-[3]: //huangxuan.me/2016/06/05/pwa-in-my-pov/
-[4]: //huangxuan.me/2016/10/20/pwa-qcon2016/
-[5]: //huangxuan.me/2016/11/20/sw-101-gdgdf/
-[6]: https://yanshuo.io/assets/player/?deck=58ac8598b123db0067292f92 "PWA Rehashing"
-[7]: https://yanshuo.io/assets/player/?deck=593ad6fbfe88c2006a0a0d6d "The State of PWA"
-[8]: https://yanshuo.io/assets/player/?deck=594d673d570c357d0698a950 "Building PWA"
-[9]: //huangxuan.me/jsconfcn2017/
+### 荣誉
+- 校优秀学生一等奖学金 `华东师范大学, 2013`
+- 信息学院版图设计大赛一等奖 `华东师范大学, 2014`
