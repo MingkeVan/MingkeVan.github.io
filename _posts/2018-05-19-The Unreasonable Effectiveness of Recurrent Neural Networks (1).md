@@ -1,3 +1,15 @@
+---
+layout:      post
+title:       RNN笔记
+subtitle:    karpathy的论文摘要
+date:        2018-05-19
+author:      Mingke Fan
+header-img:  img-post-bg-e2e-ux.jpg
+tags:
+    - RNN
+    - karpathy
+---
+
 # The Unreasonable Effectiveness of Recurrent Neural Networks
 
 from：http://karpathy.github.io/2015/05/21/rnn-effectiveness/
