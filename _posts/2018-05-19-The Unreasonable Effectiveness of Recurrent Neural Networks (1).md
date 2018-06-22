@@ -78,34 +78,30 @@ VNN和卷积网络的限制：
 
 ####激活函数
 
-> sigmoid函数：
-> $$
-> f(x) = \frac{1}{(1+e^{-x})}
-> $$
-> 值域为（0,1）导数为
-> $$
-> f'(x) = f(x)*[1-f(x)]
-> $$
->
+* sigmoid函数：$f(x) = \frac{1}{(1+e^{-x})}$
+	值域为（0,1）导数为$f'(x) = f(x)*[1-f(x)]$
 
-> tanh函数：
-> $$
-> tanh(x) = \frac{e^x-e^{-x}}{e^x+e^{-x}}\\  
-> 这个公式用代码实现会overflow，因为e^x会无穷大\\
-> tanh(x) =\begin{equation}
-> \begin{cases}
-> \frac{1-e^{-2x}}{1+e^{-2x}}, & x>0 \\
-> \frac{e^{2x}-1}{e^{2x}+1}, & x<0 \\
-> \end{cases}
-> \end{equation}  \\ 
-> 这个公式用代码实现不会overflow，因为e^{-x}\in (0,1)
-> $$
->
+* tanh函数：$tanh(x) = \frac{e^x-e^{-x}}{e^x+e^{-x}}$  
+	这个公式用代码实现会overflow，因为$e^x$会无穷大
+$$
+tanh(x) =\begin{equation}
 
-> ReLU函数：
-> $$
-> ReLU(x) =max(0,x)
-> $$
->
+\begin{cases}
+
+\frac{1-e^{-2x}}{1+e^{-2x}}, & x>0 \
+
+\frac{e^{2x}-1}{e^{2x}+1}, & x<0 \
+
+\end{cases}
+
+\end{equation}  \
+
+这个公式用代码实现不会overflow，因为e^{-x}\in (0,1)
+$$
+
+* ReLU函数：$ReLU(x) =max(0,x)$
+  * 速度快，计算代价很小
+  * 减轻梯度消失问题
+  * 稀疏性，更低的激活率
 
 以上是三种主要的激活函数。
