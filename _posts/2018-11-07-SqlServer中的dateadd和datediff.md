@@ -1,7 +1,7 @@
 ---
 layout:      post
-title:       SQL Server
-subtitle:    dateadd和datediff详解
+title:       dateadd和datediff详解
+subtitle:    sql基础知识
 date:        2018-08-13
 author:      Mingke Fan
 header-img:  img/post-bg-e2e-ux.jpg
