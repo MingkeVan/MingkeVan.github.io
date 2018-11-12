@@ -9,7 +9,7 @@ tags:
     - sql
 ---
 
-# 日期相关Sql总结
+# dateadd和datediff详解
 
 ## datediff
 
