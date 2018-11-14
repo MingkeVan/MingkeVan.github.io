@@ -1,6 +1,6 @@
 ---
 layout:      post
-title:       .gitignore正确使用方法
+title:       gitignore正确使用方法
 subtitle:    git相关
 date:        2018-11-13
 author:      Mingke Fan
@@ -8,8 +8,6 @@ header-img:  img/post-bg-e2e-ux.jpg
 tags:
     - git
 ---
-
-# .gitignore正确使用方法
 
 ```shell
 git rm --cached 要忽略的文件(git rm --cached .是忽略所有文件)
