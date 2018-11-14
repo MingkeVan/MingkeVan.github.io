@@ -9,6 +9,8 @@ tags:
     - git
 ---
 
+# .gitignore正确使用方法
+
 ```shell
 git rm --cached 要忽略的文件(git rm --cached .是忽略所有文件)
 git add .gitignore(添加过滤规则)
